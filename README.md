@@ -46,6 +46,9 @@ This project analyzes data from the FIFA World Cup. It includes data on matches,
   - **Matches Played**: The number of matches played in the tournament.
   - **Attendance**: The total number of spectators attending the tournament.
 
+## Screenshot
+![Screenshot](https://github.com/saif131/Fifa-Data-Analysis/blob/main/Screenshot%20(285).png)
+
 ## License
 
 This project is licensed under the MIT License.
